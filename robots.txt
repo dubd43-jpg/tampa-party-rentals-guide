@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dubd43-jpg.github.io/tampa-party-rentals-guide/sitemap.xml
